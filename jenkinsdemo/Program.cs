@@ -11,7 +11,7 @@ namespace jenkinsdemo
         static void Main(string[] args)
         {
             Console.WriteLine("hey");
-            Console.WriteLine("i am error")
+            Console.WriteLine("i am error");
         }
     }
 }
